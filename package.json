@@ -1,0 +1,21 @@
+{
+  "name": "node-project-test",
+  "version": "1.0.0",
+  "description": "Node project for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHOFER1/React.git"
+  },
+  "author": "Johnny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JHOFER1/React/issues"
+  },
+  "homepage": "https://github.com/JHOFER1/React#readme"
+}

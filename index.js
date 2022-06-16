@@ -1,0 +1,1 @@
+console.log("Hello Worl Azul school students!")
