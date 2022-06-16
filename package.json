@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
-
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/JHOFER1/React/issues"
   },
-  "homepage": "https://github.com/JHOFER1/React#readme"
+  "homepage": "https://github.com/JHOFER1/React#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
